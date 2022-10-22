@@ -111,7 +111,8 @@ body {
             align-items    : flex-start;
             width: 100%;
             flex-grow: 1;
-            border: 2px solid $cinza-medio;
+            border: 2px solid $cinza-escuro;
+            background-color:  $cinza-medio;
             padding: 10px;
             
             .resultado_concatenar {
